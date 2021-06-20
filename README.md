@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![alt text](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 
-### Installation
+###### Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
